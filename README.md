@@ -1,5 +1,5 @@
 # imdb_last.fm_soundtrack_exploration
-from a movie title, sound track artists are given to last.fm similarArtist algo to give YouTube urls
+from a movie title, sound track artists are given to last.fm similarArtist algo to give YouTube urls, example output is found within the files.
 
 ## important note
 This program will be working while in the terminal, it take a decent amount of time to process, will need to look into why, or maybe figure out how to lower the time of processing, added use of SoupStrainer, however the Youtube links gathering takes time, go get a coffee!
