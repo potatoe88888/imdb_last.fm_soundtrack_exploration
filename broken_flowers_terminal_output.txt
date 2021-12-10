@@ -1,0 +1,2589 @@
+Please enter a movie name // broken flowers
+
+==============================
+
+CHOICE 1 :: Broken Flowers -- 2005 -- Jim Jarmusch
+CHOICE 2 :: Broken Flowers -- 2011 -- Jamison Brandi
+CHOICE 3 :: Broken Flowers -- 2017 -- Tushnik Chaudhuri
+CHOICE 4 :: Broken Flowers: Start to Finish -- 2006 -- N/A
+CHOICE 5 :: Broken Flowers -- 2019 -- Grace Hsia
+CHOICE 6 :: Broken Flowers: The Beautifully Insane -- 2014 -- Shonathen Lindsey
+CHOICE 7 :: Broken Flowers -- 2009 -- Zetna Fuentes
+CHOICE 8 :: Broken Flower  (in development) -- N/A -- N/A
+CHOICE 9 :: Broken Flower  (in development) -- N/A -- N/A
+CHOICE 10 :: Jambo's Broken Flowers -- 2018 -- N/A
+CHOICE 11 :: Broken Sunflower Hearts -- 2018 -- Miguel Angel Caballero
+CHOICE 12 :: Broken Sunflower Hearts (in development) -- N/A -- N/A
+CHOICE 13 :: Broken Flowerpot Robot Girl -- 2016 -- Steven Heinig
+CHOICE 14 :: The Dukes of Hazzard/Saint Ralph/Broken Flowers -- 2006 -- N/A
+CHOICE 15 :: Dr. Frankenflower's Monsters -- 2019 -- Phi Phi Anh Nguyen
+CHOICE 16 :: Stealth/Duma/Broken Flowers/Must Love Dogs/Cronicas/The Aristocrats -- 2005 -- N/A
+CHOICE 17 :: NFL to ALLOW Names Of George Floyd And Breonna Taylor On Helmets? - Get Woke Go Broke NFL Is Here! -- 2020 -- John Matrixx
+CHOICE 18 :: The Sword of Justice -- 1980 -- Sheng-Yu Hsu
+CHOICE 19 :: Romantic Flowers For You Babe -- 2021 -- Samantha Sammy C. Taylor
+
+==============================
+
+Enter CHOICE # as multiple movies with this title have been found // 1
+
+==============================
+
+IMDB soundtrack url ::
+https://m.imdb.com/title/tt0412019/soundtrack/
+
+soundtrack_artist_array ::
+['The Greenhornes', 'Mulatu Astatke', 'The Tennors', 'Marvin Gaye', 'The Brian Jonestown Massacre', 'Holly Golightly', 'Sleep', 'Oxford Camerata', 'Dengue Fever', 'The Allman Brothers Band', 'Jackie Mittoo', 'Fretwork']
+
+==============================
+
+The Greenhornes
+similar_artist_array ::
+['Black Diamond Heavies', 'Archie Bronson Outfit', 'The Jim Jones Revue', 'Holly Golightly', 'The Parlor Mob', '22-20s', 'Heavy Trash', 'The Dead Weather', 'Little Barrie', 'The Kills', 'Left Lane Cruiser', 'Black Pistol Fire', 'Hushpuppies', 'The Black Box Revelation', 'The Raconteurs', 'The Blackwater Fever', 'Sons and Daughters', 'The Von Bondies', 'Night Beats', 'Hanni El Khatib']
+
+==============================
+
+last.fm urls and YouTube urls to explore ::
+{
+    "Black Diamond Heavies": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=Gju6HIRMQQA",
+                "https://www.youtube.com/watch?v=5enmjKTavFc",
+                "https://www.youtube.com/watch?v=AvEvvBftcPA",
+                "https://www.youtube.com/watch?v=_eNrl8eXtvI",
+                "https://www.youtube.com/watch?v=0kBc79GRp_g"
+            ]
+        ]
+    },
+    "Archie Bronson Outfit": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=cObvKRbn7uI",
+                "https://www.youtube.com/watch?v=xK8VzuF9zqE",
+                "https://www.youtube.com/watch?v=LNGSwk_7BRA",
+                "https://www.youtube.com/watch?v=Hsj3jfOVYF0",
+                "https://www.youtube.com/watch?v=be-70wKAFgI"
+            ]
+        ]
+    },
+    "The Jim Jones Revue": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=fJJTFuFlUtE",
+                "https://www.youtube.com/watch?v=KX5O1aLO87k",
+                "https://www.youtube.com/watch?v=4uBI8owlj4g",
+                "https://www.youtube.com/watch?v=PyFmLEnCkPo",
+                "https://www.youtube.com/watch?v=EVClmEKbm0I"
+            ]
+        ]
+    },
+    "Holly Golightly": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=jqy--SWn0C4",
+                "https://www.youtube.com/watch?v=agdNenN5ALo",
+                "https://www.youtube.com/watch?v=Pux7Vrg2LJI",
+                "https://www.youtube.com/watch?v=wtBGu9GZw00",
+                "https://www.youtube.com/watch?v=1WRpTRDdGDY"
+            ]
+        ]
+    },
+    "The Parlor Mob": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=ljRJakYlRe4",
+                "https://www.youtube.com/watch?v=4QoG0Ryu5aw",
+                "https://www.youtube.com/watch?v=a58dHHXqHvI",
+                "https://www.youtube.com/watch?v=vKqweQX9jCw",
+                "https://www.youtube.com/watch?v=0rI5XsDa1eY"
+            ]
+        ]
+    },
+    "22-20s": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=uwTexpqTIFs",
+                "https://www.youtube.com/watch?v=EWOYkis7D2c",
+                "https://www.youtube.com/watch?v=A-aTZ1Je0DY",
+                "https://www.youtube.com/watch?v=KFXhD5Y_Q90",
+                "https://www.youtube.com/watch?v=4SawCDJrH90"
+            ]
+        ]
+    },
+    "Heavy Trash": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=t0Bx5jstLQo",
+                "https://www.youtube.com/watch?v=eZQ-GfbG0mc",
+                "https://www.youtube.com/watch?v=zNPDiclEnDE",
+                "https://www.youtube.com/watch?v=LVXweGjaqXs",
+                "https://www.youtube.com/watch?v=4YgsLyD89eU"
+            ]
+        ]
+    },
+    "The Dead Weather": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=M7QSkI6My1g",
+                "https://www.youtube.com/watch?v=2KiXiIANgOQ",
+                "https://www.youtube.com/watch?v=MYWdRpM6Tp8",
+                "https://www.youtube.com/watch?v=_2B_gnfJL5w",
+                "https://www.youtube.com/watch?v=LkEUqao_C0w"
+            ]
+        ]
+    },
+    "Little Barrie": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=NKm-3SxBEZc",
+                "https://www.youtube.com/watch?v=eHmsblNnnGM",
+                "https://www.youtube.com/watch?v=XWKqwV3PJZg",
+                "https://www.youtube.com/watch?v=q83x9VWDL-Q",
+                "https://www.youtube.com/watch?v=dioz3L3ihRo"
+            ]
+        ]
+    },
+    "The Kills": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=KiLjuRG3hoE",
+                "https://www.youtube.com/watch?v=G6wUPCqwWI8",
+                "https://www.youtube.com/watch?v=1vQY0wR8BZs",
+                "https://www.youtube.com/watch?v=qdeWQIM1FgY",
+                "https://www.youtube.com/watch?v=ruc1jTK2H_s"
+            ]
+        ]
+    },
+    "Left Lane Cruiser": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=28kafh-L2XI",
+                "https://www.youtube.com/watch?v=F-6ImKxMitw",
+                "https://www.youtube.com/watch?v=B8tmZ7l2I4s",
+                "https://www.youtube.com/watch?v=eidJbDiMZbg",
+                "https://www.youtube.com/watch?v=aWvSY6SeLPA"
+            ]
+        ]
+    },
+    "Black Pistol Fire": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=R7iHVQ5quB0",
+                "https://www.youtube.com/watch?v=2YyfIYadXVc",
+                "https://www.youtube.com/watch?v=Czb5hC6EUg4",
+                "https://www.youtube.com/watch?v=5_GpEgB9lPE",
+                "https://www.youtube.com/watch?v=rteityl9S1w"
+            ]
+        ]
+    },
+    "Hushpuppies": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=eu-ejtZcDcA",
+                "https://www.youtube.com/watch?v=CFSjFyw5_40",
+                "https://www.youtube.com/watch?v=ABPFAGIqHEQ",
+                "https://www.youtube.com/watch?v=idu2ELTODFs"
+            ]
+        ]
+    },
+    "The Black Box Revelation": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=CBGMWp5_o58",
+                "https://www.youtube.com/watch?v=cutSDHH7IxE",
+                "https://www.youtube.com/watch?v=rNpAdu_iSik",
+                "https://www.youtube.com/watch?v=fgWWlROGJlY",
+                "https://www.youtube.com/watch?v=wPeEvqXjgyw"
+            ]
+        ]
+    },
+    "The Raconteurs": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=ulOQKD8XbuI",
+                "https://www.youtube.com/watch?v=7lL1CW140FQ",
+                "https://www.youtube.com/watch?v=1pu0ZxQ6M70",
+                "https://www.youtube.com/watch?v=B6LOkHmKUwk",
+                "https://www.youtube.com/watch?v=bqFb6VXW86Y"
+            ]
+        ]
+    },
+    "The Blackwater Fever": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=3YprzkLnVXs",
+                "https://www.youtube.com/watch?v=_CN3cTloWB4",
+                "https://www.youtube.com/watch?v=QSyO3YYwFqw",
+                "https://www.youtube.com/watch?v=0dt4Vqg7Qcc",
+                "https://www.youtube.com/watch?v=cNzjn603tI8"
+            ]
+        ]
+    },
+    "Sons and Daughters": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=tvGxzg7-GQo",
+                "https://www.youtube.com/watch?v=NDPWCQugzLo",
+                "https://www.youtube.com/watch?v=-2fjSrXilcc",
+                "https://www.youtube.com/watch?v=cKVAD-bpAuo",
+                "https://www.youtube.com/watch?v=xn2WWYfAqUY"
+            ]
+        ]
+    },
+    "The Von Bondies": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=RFGo5cqcxP4",
+                "https://www.youtube.com/watch?v=HXLhmc7zW2Q",
+                "https://www.youtube.com/watch?v=U2sqYeV_ghQ",
+                "https://www.youtube.com/watch?v=Efw5UVjJguM",
+                "https://www.youtube.com/watch?v=GKGBvp9BBSs"
+            ]
+        ]
+    },
+    "Night Beats": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=EM-e9yTrwFY",
+                "https://www.youtube.com/watch?v=ALlHL8HW4aI",
+                "https://www.youtube.com/watch?v=Gq5e6Ej_hSs",
+                "https://www.youtube.com/watch?v=Ib0jYKQYJ8g",
+                "https://www.youtube.com/watch?v=EJ1yP_WpjU4"
+            ]
+        ]
+    },
+    "Hanni El Khatib": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=31U3ik247qE",
+                "https://www.youtube.com/watch?v=29D40TgIs38",
+                "https://www.youtube.com/watch?v=ghSxLKJxDy0",
+                "https://www.youtube.com/watch?v=5XourLvpbE0",
+                "https://www.youtube.com/watch?v=dn8Gu0St7zs"
+            ]
+        ]
+    }
+}
+Mulatu Astatke
+similar_artist_array ::
+['Mahmoud Ahmed', 'Akalé Wubé', 'Gétatchèw Mèkurya', 'Hailu Mergia', 'Girma Bèyènè', 'Mulatu Astatke & The Heliocentrics', 'Alèmayèhu Eshèté', 'Fela Kuti', 'Tony Allen', 'Orchestra Baobab', 'Manu Dibango', 'Tinariwen', 'Emahoy Tsegué-Maryam Guèbrou', 'Ali Farka Touré', 'Hugh Masekela', 'Francis Bebey', 'Oumou Sangare', 'Yusef Lateef', 'Girma Hadgu', 'Ernest Ranglin']
+
+==============================
+
+last.fm urls and YouTube urls to explore ::
+{
+    "Mahmoud Ahmed": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=BD7wEzhSfic",
+                "https://www.youtube.com/watch?v=5IAKaipKdh0",
+                "https://www.youtube.com/watch?v=blVAm_5-Nqc",
+                "https://www.youtube.com/watch?v=7utTLNzK4ZA",
+                "https://www.youtube.com/watch?v=wfITBq_ULR0"
+            ]
+        ]
+    },
+    "Akal\u00e9 Wub\u00e9": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=OSUsnuAqR9g",
+                "https://www.youtube.com/watch?v=FITEwXMxMOU",
+                "https://www.youtube.com/watch?v=SIS_yZla_Qs",
+                "https://www.youtube.com/watch?v=4gneJ8Zp-1E"
+            ]
+        ]
+    },
+    "G\u00e9tatch\u00e8w M\u00e8kurya": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=2Dk4pjTbJEw",
+                "https://www.youtube.com/watch?v=IbpytNIYxNU",
+                "https://www.youtube.com/watch?v=9BTZNa2Car4",
+                "https://www.youtube.com/watch?v=cM22B0xpRLY",
+                "https://www.youtube.com/watch?v=hAlXRAUcIPc"
+            ]
+        ]
+    },
+    "Hailu Mergia": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=R0pDkwNmjZY",
+                "https://www.youtube.com/watch?v=CU9n63ANaEc",
+                "https://www.youtube.com/watch?v=hNueC_1ba1s",
+                "https://www.youtube.com/watch?v=v2fFWLKAxMo"
+            ]
+        ]
+    },
+    "Girma B\u00e8y\u00e8n\u00e8": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=7fYChWaTppc",
+                "https://www.youtube.com/watch?v=560Jf3Iac6E",
+                "https://www.youtube.com/watch?v=gTJHr0Sd7Lc",
+                "https://www.youtube.com/watch?v=YwEEMMxbtC8"
+            ]
+        ]
+    },
+    "Mulatu Astatke & The Heliocentrics": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=FryTEFIReEI",
+                "https://www.youtube.com/watch?v=rJtmjk2eJPc",
+                "https://www.youtube.com/watch?v=7RTKHVt-Oy0",
+                "https://www.youtube.com/watch?v=gK7Xmg0K8i8"
+            ]
+        ]
+    },
+    "Al\u00e8may\u00e8hu Esh\u00e8t\u00e9": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=cJjZDxONGt0",
+                "https://www.youtube.com/watch?v=-EaQCutlyMY",
+                "https://www.youtube.com/watch?v=DfRO3zfNUz0",
+                "https://www.youtube.com/watch?v=mBCE_K9kwQ8",
+                "https://www.youtube.com/watch?v=N9o6cnjHkeY"
+            ]
+        ]
+    },
+    "Fela Kuti": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=_kVkNtOdM-Q",
+                "https://www.youtube.com/watch?v=xviLDFqMznQ",
+                "https://www.youtube.com/watch?v=7ue-4aZhpp0",
+                "https://www.youtube.com/watch?v=NQSvb86a5cY",
+                "https://www.youtube.com/watch?v=bu7GuVk5X9A"
+            ]
+        ]
+    },
+    "Tony Allen": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=8-hMkHkoFrU",
+                "https://www.youtube.com/watch?v=-QenYNVWcV4",
+                "https://www.youtube.com/watch?v=pD8C3UnqQIg",
+                "https://www.youtube.com/watch?v=oGcVrvAFfKc",
+                "https://www.youtube.com/watch?v=zINzk3gWmJw"
+            ]
+        ]
+    },
+    "Orchestra Baobab": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=47_j5hoeIws",
+                "https://www.youtube.com/watch?v=fFsZkfC9Z6Q",
+                "https://www.youtube.com/watch?v=EHdGr-yPl1E",
+                "https://www.youtube.com/watch?v=SBm_PqFIyJM",
+                "https://www.youtube.com/watch?v=gucuMVy__UE"
+            ]
+        ]
+    },
+    "Manu Dibango": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=o0CeFX6E2yI",
+                "https://www.youtube.com/watch?v=6f7lprfMWeI",
+                "https://www.youtube.com/watch?v=86SrAPd4uBY",
+                "https://www.youtube.com/watch?v=O_TGuFhSHBo",
+                "https://www.youtube.com/watch?v=3zXyNKS7IZM"
+            ]
+        ]
+    },
+    "Tinariwen": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=8He1jhDFM5U",
+                "https://www.youtube.com/watch?v=49qX5KwQbfw",
+                "https://www.youtube.com/watch?v=i9N3Z8TjyX8",
+                "https://www.youtube.com/watch?v=dIJZzL4XlYQ",
+                "https://www.youtube.com/watch?v=gCpwHECeAAo"
+            ]
+        ]
+    },
+    "Emahoy Tsegu\u00e9-Maryam Gu\u00e8brou": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=H-wUChkOjXU",
+                "https://www.youtube.com/watch?v=nKU7iz9RYV0",
+                "https://www.youtube.com/watch?v=n0BpO5PKJHA",
+                "https://www.youtube.com/watch?v=b3BetZFGBmc",
+                "https://www.youtube.com/watch?v=Lhn_8OIMWFs"
+            ]
+        ]
+    },
+    "Ali Farka Tour\u00e9": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=de_0sUQ0GVA",
+                "https://www.youtube.com/watch?v=LEPDfBhK_XQ",
+                "https://www.youtube.com/watch?v=ok9S_HiA7ZI",
+                "https://www.youtube.com/watch?v=WdXBfkj-CBQ",
+                "https://www.youtube.com/watch?v=339uFnhymM4"
+            ]
+        ]
+    },
+    "Hugh Masekela": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=qxXZF60EPdM",
+                "https://www.youtube.com/watch?v=exn65dywHqA",
+                "https://www.youtube.com/watch?v=IJm2KmdxEQI",
+                "https://www.youtube.com/watch?v=Ps7J8caAVWk",
+                "https://www.youtube.com/watch?v=2Gkwun1vM_o"
+            ]
+        ]
+    },
+    "Francis Bebey": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=m56H4E5bZLk",
+                "https://www.youtube.com/watch?v=MbmiiWy0igo",
+                "https://www.youtube.com/watch?v=rPXv2gm3yuI",
+                "https://www.youtube.com/watch?v=dxyFWe6g05U",
+                "https://www.youtube.com/watch?v=1bta4fS-MnE"
+            ]
+        ]
+    },
+    "Oumou Sangare": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=8wz2F-GoV5o",
+                "https://www.youtube.com/watch?v=6mlxHs2BjQY",
+                "https://www.youtube.com/watch?v=j-U7oLj8r18",
+                "https://www.youtube.com/watch?v=Xq9shQQJXdQ",
+                "https://www.youtube.com/watch?v=kHMFie-BOPs"
+            ]
+        ]
+    },
+    "Yusef Lateef": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=xtdlkNaGuns",
+                "https://www.youtube.com/watch?v=_KfVsJwTjlo",
+                "https://www.youtube.com/watch?v=hONR0QT9yII",
+                "https://www.youtube.com/watch?v=ZPvS6KEqUDc",
+                "https://www.youtube.com/watch?v=6p-BRweEeWs"
+            ]
+        ]
+    },
+    "Girma Hadgu": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=Ru2w8DkgUqo"
+            ]
+        ]
+    },
+    "Ernest Ranglin": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=1AW2pBzk0dM",
+                "https://www.youtube.com/watch?v=pbWJFdAKhWE",
+                "https://www.youtube.com/watch?v=UT3dGLLKw6o",
+                "https://www.youtube.com/watch?v=Xb2p5iJi-9w",
+                "https://www.youtube.com/watch?v=fZ-DNErMgms"
+            ]
+        ]
+    }
+}
+The Tennors
+similar_artist_array ::
+['Owen Gray', 'Derrick Morgan', 'The Versatiles', 'Sound Dimension', 'Nora Dean', 'Roy Shirley', 'Clancy Eccles', 'The Gaylads', 'The Techniques', 'Pat Kelly', 'Joya Landis', 'The Ethiopians', 'The Melodians', 'Stranger Cole', 'The Kingstonians', 'Ken Boothe', 'The Paragons', 'The Jamaicans', 'The Dynamites', 'Tommy McCook & The Supersonics']
+
+==============================
+
+last.fm urls and YouTube urls to explore ::
+{
+    "Owen Gray": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=eVqIWrR_AOc",
+                "https://www.youtube.com/watch?v=1iQPZNUTkLA",
+                "https://www.youtube.com/watch?v=fBbwTQ0OHp4",
+                "https://www.youtube.com/watch?v=Rb-vNYicpWg",
+                "https://www.youtube.com/watch?v=k0fl7VFaF9M"
+            ]
+        ]
+    },
+    "Derrick Morgan": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=c-yIURoOWfI",
+                "https://www.youtube.com/watch?v=DbUvLaENlDQ",
+                "https://www.youtube.com/watch?v=oN85NPJYphA",
+                "https://www.youtube.com/watch?v=w3Y7eSWLSJI",
+                "https://www.youtube.com/watch?v=02jZwExOn8M"
+            ]
+        ]
+    },
+    "The Versatiles": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=jPioTM_QQYs",
+                "https://www.youtube.com/watch?v=HIoB7RdlpZQ",
+                "https://www.youtube.com/watch?v=mTWkNejWt3E",
+                "https://www.youtube.com/watch?v=PAUIa4FkrPE",
+                "https://www.youtube.com/watch?v=4DGPJhGbrmc"
+            ]
+        ]
+    },
+    "Sound Dimension": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=04fXIXUbFkk",
+                "https://www.youtube.com/watch?v=lWG9412gwQ8",
+                "https://www.youtube.com/watch?v=t8W8dR4JBaU",
+                "https://www.youtube.com/watch?v=6s_9EDqUQY4",
+                "https://www.youtube.com/watch?v=GEbQlZKN6ko"
+            ]
+        ]
+    },
+    "Nora Dean": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=9jp6cdgLCRQ",
+                "https://www.youtube.com/watch?v=70mUtLCttuU",
+                "https://www.youtube.com/watch?v=Kgi8bkcMmiI",
+                "https://www.youtube.com/watch?v=o7WHt5J-pTo"
+            ]
+        ]
+    },
+    "Roy Shirley": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=cBXa4JIMfhc",
+                "https://www.youtube.com/watch?v=36BzfSPhNjk",
+                "https://www.youtube.com/watch?v=SLaT09IYxO4",
+                "https://www.youtube.com/watch?v=j_DAURkeWmQ",
+                "https://www.youtube.com/watch?v=z8NN5bMEFL0"
+            ]
+        ]
+    },
+    "Clancy Eccles": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=iKWQaza0JKk",
+                "https://www.youtube.com/watch?v=C1w6ccWYmo0",
+                "https://www.youtube.com/watch?v=0IMEyolnh2o",
+                "https://www.youtube.com/watch?v=5p0akw0YDqo",
+                "https://www.youtube.com/watch?v=LtgFxaUfq9I"
+            ]
+        ]
+    },
+    "The Gaylads": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=7muJjL6m4BA",
+                "https://www.youtube.com/watch?v=irOrFUVBNgs",
+                "https://www.youtube.com/watch?v=RlzLiUbEQuc",
+                "https://www.youtube.com/watch?v=DKrVPX9oJ14",
+                "https://www.youtube.com/watch?v=4vWBWeh9oa4"
+            ]
+        ]
+    },
+    "The Techniques": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=6TpIFAfuKpo",
+                "https://www.youtube.com/watch?v=RtTeNvyrCYo",
+                "https://www.youtube.com/watch?v=bPL6hv6G77I",
+                "https://www.youtube.com/watch?v=T-aFiOMEp48",
+                "https://www.youtube.com/watch?v=z5Jihf7_604"
+            ]
+        ]
+    },
+    "Pat Kelly": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=4mzJ23n-CNY",
+                "https://www.youtube.com/watch?v=7CyQdunWSxw",
+                "https://www.youtube.com/watch?v=b48DwIG6eIo",
+                "https://www.youtube.com/watch?v=ODs7CkANcWU",
+                "https://www.youtube.com/watch?v=0tGbSnUP-n8"
+            ]
+        ]
+    },
+    "Joya Landis": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=Qy0iiRSKws8",
+                "https://www.youtube.com/watch?v=FShcKU7ROiw",
+                "https://www.youtube.com/watch?v=JaAyRsFeSj4",
+                "https://www.youtube.com/watch?v=22jOiMm999M",
+                "https://www.youtube.com/watch?v=Rd3baoIo_rs"
+            ]
+        ]
+    },
+    "The Ethiopians": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=B3O63JuuTlg",
+                "https://www.youtube.com/watch?v=3ac98MtjKA4",
+                "https://www.youtube.com/watch?v=IxF1pz3VrfE",
+                "https://www.youtube.com/watch?v=I4sfmthjK2Y",
+                "https://www.youtube.com/watch?v=6KfUgqWxCGA"
+            ]
+        ]
+    },
+    "The Melodians": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=BXf1j8Hz2bU",
+                "https://www.youtube.com/watch?v=hmKf5H4Wbcc",
+                "https://www.youtube.com/watch?v=9AGPoNcnxV8",
+                "https://www.youtube.com/watch?v=da9mfpq--iA",
+                "https://www.youtube.com/watch?v=g8bvfHEBIDo"
+            ]
+        ]
+    },
+    "Stranger Cole": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=wPAPL-KtxlA",
+                "https://www.youtube.com/watch?v=-hOBUP_X0Eo",
+                "https://www.youtube.com/watch?v=dvkditKo9GE",
+                "https://www.youtube.com/watch?v=1UTVlZYPie0",
+                "https://www.youtube.com/watch?v=FJIcsZTNiGc"
+            ]
+        ]
+    },
+    "The Kingstonians": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=7MTlSw8IfSo",
+                "https://www.youtube.com/watch?v=zurASi7NlZo",
+                "https://www.youtube.com/watch?v=EUUhjO9kYo0",
+                "https://www.youtube.com/watch?v=iWepRzEOjC8",
+                "https://www.youtube.com/watch?v=woT6329Amj4"
+            ]
+        ]
+    },
+    "Ken Boothe": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=2Mj0Zxo4LdE",
+                "https://www.youtube.com/watch?v=j56OdQwlg9Y",
+                "https://www.youtube.com/watch?v=YwrS6K8r8-U",
+                "https://www.youtube.com/watch?v=-ENNVsX-lPY",
+                "https://www.youtube.com/watch?v=MJP4WSa4NcM"
+            ]
+        ]
+    },
+    "The Paragons": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=2SwKPvCKV08",
+                "https://www.youtube.com/watch?v=OZWZNJaKw8E",
+                "https://www.youtube.com/watch?v=X0HqKXOzPpg",
+                "https://www.youtube.com/watch?v=zLLScbGLQw4",
+                "https://www.youtube.com/watch?v=v900xdBs8do"
+            ]
+        ]
+    },
+    "The Jamaicans": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=03g132DbuTk",
+                "https://www.youtube.com/watch?v=gK-W3XC4InE",
+                "https://www.youtube.com/watch?v=8Q2QVBMm_Ik",
+                "https://www.youtube.com/watch?v=6jlvx-Vy288"
+            ]
+        ]
+    },
+    "The Dynamites": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=8OFEBMn_cvs",
+                "https://www.youtube.com/watch?v=2IeP9Y8m4OU",
+                "https://www.youtube.com/watch?v=-j-uv7zzSDE",
+                "https://www.youtube.com/watch?v=2EkdVCOsrss",
+                "https://www.youtube.com/watch?v=o4-gH9Yn_8I"
+            ]
+        ]
+    },
+    "Tommy McCook & The Supersonics": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=LzqaJzE5uOs",
+                "https://www.youtube.com/watch?v=SXQ0OKFU-Y0",
+                "https://www.youtube.com/watch?v=IPwZ6qav4sw"
+            ]
+        ]
+    }
+}
+Marvin Gaye
+similar_artist_array ::
+['Marvin Gaye & Tammi Terrell', 'Stevie Wonder', 'Curtis Mayfield', 'The Isley Brothers', 'Al Green', 'Isaac Hayes', 'The Temptations', 'Eddie Kendricks', 'Sly & The Family Stone', 'Smokey Robinson', 'Smokey Robinson and The Miracles', 'Donny Hathaway', 'Bill Withers', "The O'Jays", 'The Spinners', 'Gladys Knight & The Pips', 'Otis Redding', 'Sam Cooke', "D'Angelo", 'The Supremes']
+
+==============================
+
+last.fm urls and YouTube urls to explore ::
+{
+    "Marvin Gaye & Tammi Terrell": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=IC5PL0XImjw",
+                "https://www.youtube.com/watch?v=DUKaRpSMuAA",
+                "https://www.youtube.com/watch?v=gdqtmnd2T0U",
+                "https://www.youtube.com/watch?v=FbX66Ddxtow",
+                "https://www.youtube.com/watch?v=ptHtmTWT1t8"
+            ]
+        ]
+    },
+    "Stevie Wonder": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=ftdZ363R9kQ",
+                "https://www.youtube.com/watch?v=EnNgASBdCeo",
+                "https://www.youtube.com/watch?v=7YGc6RMOYF8",
+                "https://www.youtube.com/watch?v=l3qi3E40aWE",
+                "https://www.youtube.com/watch?v=WvRwR-hZDVY"
+            ]
+        ]
+    },
+    "Curtis Mayfield": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=6Z66wVo7uNw",
+                "https://www.youtube.com/watch?v=-cmo6MRYf5g",
+                "https://www.youtube.com/watch?v=hCDAfa-NI-M",
+                "https://www.youtube.com/watch?v=0B6TKClPFQA",
+                "https://www.youtube.com/watch?v=iN3KsbnQZxU"
+            ]
+        ]
+    },
+    "The Isley Brothers": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=_kpLF4efBXo",
+                "https://www.youtube.com/watch?v=CM2TP8kqt0E",
+                "https://www.youtube.com/watch?v=-7KuJZanjCY",
+                "https://www.youtube.com/watch?v=2IkBBTOhfCQ",
+                "https://www.youtube.com/watch?v=3uEPDEJbJu0"
+            ]
+        ]
+    },
+    "Al Green": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=COiIC3A0ROM",
+                "https://www.youtube.com/watch?v=7ll7ocQbH_k",
+                "https://www.youtube.com/watch?v=hsU6_eSG4k4",
+                "https://www.youtube.com/watch?v=64LlNk1Upks",
+                "https://www.youtube.com/watch?v=9FBUgdhxe9M"
+            ]
+        ]
+    },
+    "Isaac Hayes": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=12NQZWz0HKg",
+                "https://www.youtube.com/watch?v=2mPOR-Eb87o",
+                "https://www.youtube.com/watch?v=5loAY27W5IY",
+                "https://www.youtube.com/watch?v=ul_tl4r270M",
+                "https://www.youtube.com/watch?v=gTQlsszUlFY"
+            ]
+        ]
+    },
+    "The Temptations": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=C_CSjcm-z1w",
+                "https://www.youtube.com/watch?v=crWSG6liT5Y",
+                "https://www.youtube.com/watch?v=PV97roslmt0",
+                "https://www.youtube.com/watch?v=gjzBbYr4Eik",
+                "https://www.youtube.com/watch?v=71l85z2bXAs"
+            ]
+        ]
+    },
+    "Eddie Kendricks": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=wKTbcoLs5yk",
+                "https://www.youtube.com/watch?v=d9yBBFRpXj4",
+                "https://www.youtube.com/watch?v=axdQZmbx3Po",
+                "https://www.youtube.com/watch?v=QfNayHdX_DY",
+                "https://www.youtube.com/watch?v=kt8N0ZHTdno"
+            ]
+        ]
+    },
+    "Sly & The Family Stone": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=YUUhDoCx8zc",
+                "https://www.youtube.com/watch?v=Jn2PNlhvy8E",
+                "https://www.youtube.com/watch?v=wKgfJn0EWeo",
+                "https://www.youtube.com/watch?v=j2x4a2TilEo",
+                "https://www.youtube.com/watch?v=0mK076cVA9Q"
+            ]
+        ]
+    },
+    "Smokey Robinson": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=drkXXuxKRv4",
+                "https://www.youtube.com/watch?v=EDiDBmOGDDg",
+                "https://www.youtube.com/watch?v=A8zurufgMuI",
+                "https://www.youtube.com/watch?v=9NZ7LnkCl7w"
+            ]
+        ]
+    },
+    "Smokey Robinson and The Miracles": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=HnJNZJzl2FQ",
+                "https://www.youtube.com/watch?v=ZaMX0Cs5Bc4",
+                "https://www.youtube.com/watch?v=rjbqcFB_sPU",
+                "https://www.youtube.com/watch?v=5RDUYOSpH9w",
+                "https://www.youtube.com/watch?v=C0aFccufx-o"
+            ]
+        ]
+    },
+    "Donny Hathaway": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=VcMWUArO8ak",
+                "https://www.youtube.com/watch?v=F4n7cx3J_sc",
+                "https://www.youtube.com/watch?v=HeHiio1sTTI",
+                "https://www.youtube.com/watch?v=30pyVobf1Vg",
+                "https://www.youtube.com/watch?v=9UjkZnK-pJM"
+            ]
+        ]
+    },
+    "Bill Withers": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=CICIOJqEb5c",
+                "https://www.youtube.com/watch?v=sYi7uEvEEmk",
+                "https://www.youtube.com/watch?v=fOZ-MySzAac",
+                "https://www.youtube.com/watch?v=g3hBYTkI-sE",
+                "https://www.youtube.com/watch?v=qv5pagal-ls"
+            ]
+        ]
+    },
+    "The O'Jays": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=ECZr3-a_rDA",
+                "https://www.youtube.com/watch?v=T6h1BV7FZqs",
+                "https://www.youtube.com/watch?v=kjuRhETwbI0",
+                "https://www.youtube.com/watch?v=aIROc9l_0IU",
+                "https://www.youtube.com/watch?v=vPpC4i3IIpY"
+            ]
+        ]
+    },
+    "The Spinners": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=ojCikI9npJQ",
+                "https://www.youtube.com/watch?v=kDFFHLrzTDM",
+                "https://www.youtube.com/watch?v=KSMVflSBKx8",
+                "https://www.youtube.com/watch?v=2rd9JuKUguI",
+                "https://www.youtube.com/watch?v=4YSbGXNXfVg"
+            ]
+        ]
+    },
+    "Gladys Knight & The Pips": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=v78-ftcqpNw",
+                "https://www.youtube.com/watch?v=BQRcUxNJEbs",
+                "https://www.youtube.com/watch?v=0kPFrQPdKPM",
+                "https://www.youtube.com/watch?v=qfORYJt3OJU",
+                "https://www.youtube.com/watch?v=i810mVyAZDw"
+            ]
+        ]
+    },
+    "Otis Redding": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=rTVjnBo96Ug",
+                "https://www.youtube.com/watch?v=uHX8kPDzkTg",
+                "https://www.youtube.com/watch?v=6CQOTt-cD68",
+                "https://www.youtube.com/watch?v=4XYoUfHW9-U",
+                "https://www.youtube.com/watch?v=1ZxN9iQM7OY"
+            ]
+        ]
+    },
+    "Sam Cooke": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=wEBlaMOmKV4",
+                "https://www.youtube.com/watch?v=WjtndPBN6jE",
+                "https://www.youtube.com/watch?v=85ekOXs1-7k",
+                "https://www.youtube.com/watch?v=R4GLAKEjU4w",
+                "https://www.youtube.com/watch?v=agjMOdoMq24"
+            ]
+        ]
+    },
+    "D'Angelo": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=H_WzjiTzZBA",
+                "https://www.youtube.com/watch?v=SxVNOnPyvIU",
+                "https://www.youtube.com/watch?v=nmdUMwlrezs",
+                "https://www.youtube.com/watch?v=SMuMMhfHaNw"
+            ]
+        ]
+    },
+    "The Supremes": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=fQ7uXX9K7Sk",
+                "https://www.youtube.com/watch?v=9_y6nFjoVp4",
+                "https://www.youtube.com/watch?v=dfl3EYFjHJU",
+                "https://www.youtube.com/watch?v=UGJQPkfwlAc",
+                "https://www.youtube.com/watch?v=t3bjMtqpGBw"
+            ]
+        ]
+    }
+}
+The Brian Jonestown Massacre
+similar_artist_array ::
+['The Warlocks', 'Psychic Ills', 'The Black Angels', 'The Dandy Warhols', 'Spacemen 3', 'Wooden Shjips', 'Allah-Las', 'Moon Duo', 'Dead Meadow', 'Tess Parks', 'The Blue Angel Lounge', 'Night Beats', 'Spiritualized', 'The Dolly Rocker Movement', 'The Underground Youth', 'Black Rebel Motorcycle Club', 'Crystal Stilts', 'Goat', '13th Floor Elevators', 'A Place to Bury Strangers']
+
+==============================
+
+last.fm urls and YouTube urls to explore ::
+{
+    "The Warlocks": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=1XgIwdktn-8",
+                "https://www.youtube.com/watch?v=_srJI4Ebpmk",
+                "https://www.youtube.com/watch?v=hGT-CZR0af8",
+                "https://www.youtube.com/watch?v=fdd7CEHpKCw",
+                "https://www.youtube.com/watch?v=87HclAvO7Y8"
+            ]
+        ]
+    },
+    "Psychic Ills": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=ugue9uLoHbU",
+                "https://www.youtube.com/watch?v=Nh60iGucgzo",
+                "https://www.youtube.com/watch?v=8RRm1yZfjFM",
+                "https://www.youtube.com/watch?v=1jdqs7z7EHw",
+                "https://www.youtube.com/watch?v=OeZ-_iE1vtY"
+            ]
+        ]
+    },
+    "The Black Angels": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=VvKjpGP6P5Y",
+                "https://www.youtube.com/watch?v=i3QmrFsMw1w",
+                "https://www.youtube.com/watch?v=3jV6TnBC2nk",
+                "https://www.youtube.com/watch?v=9WZ2I28Chk0",
+                "https://www.youtube.com/watch?v=BSD5e8s7RaI"
+            ]
+        ]
+    },
+    "The Dandy Warhols": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=Z-GRlWPWRfE",
+                "https://www.youtube.com/watch?v=Bm1g5Yg0hUw",
+                "https://www.youtube.com/watch?v=ON6pn6suSzc",
+                "https://www.youtube.com/watch?v=6fpNoeei_0M",
+                "https://www.youtube.com/watch?v=hFyA7Zekvi8"
+            ]
+        ]
+    },
+    "Spacemen 3": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=RZ0DCx_Vx_U",
+                "https://www.youtube.com/watch?v=KLVjB7SI9KA",
+                "https://www.youtube.com/watch?v=KZmgEm4tsNQ",
+                "https://www.youtube.com/watch?v=NRuoXqpL6ZM",
+                "https://www.youtube.com/watch?v=ZAXEwrxiIOM"
+            ]
+        ]
+    },
+    "Wooden Shjips": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=-ng_dBhjt0s",
+                "https://www.youtube.com/watch?v=6PfYo-YYVPY",
+                "https://www.youtube.com/watch?v=hSSTHOcsT3s",
+                "https://www.youtube.com/watch?v=o5qddnGj3f0",
+                "https://www.youtube.com/watch?v=9FYEfSAh7rc"
+            ]
+        ]
+    },
+    "Allah-Las": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=yIJ-RsIO1eA",
+                "https://www.youtube.com/watch?v=IpRh5bChBSM",
+                "https://www.youtube.com/watch?v=nZ8JnVB7R_0",
+                "https://www.youtube.com/watch?v=Fil9sJcZ5Mg",
+                "https://www.youtube.com/watch?v=8wFJtLw0dVI"
+            ]
+        ]
+    },
+    "Moon Duo": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=zgqTh6uoenc",
+                "https://www.youtube.com/watch?v=kLUlwQ4vafw",
+                "https://www.youtube.com/watch?v=CEBMJR3-fu4",
+                "https://www.youtube.com/watch?v=8pDWw7ZVY1s",
+                "https://www.youtube.com/watch?v=gFhKRt5g7LU"
+            ]
+        ]
+    },
+    "Dead Meadow": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=d_7V1qMz6oU",
+                "https://www.youtube.com/watch?v=FtAo_Q6owmQ",
+                "https://www.youtube.com/watch?v=2gQQ5p9J_Jk",
+                "https://www.youtube.com/watch?v=FSmsDQU3F3A",
+                "https://www.youtube.com/watch?v=7fTUg77uybk"
+            ]
+        ]
+    },
+    "Tess Parks": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=TXICXbzDOZk",
+                "https://www.youtube.com/watch?v=7VcDE-ILXp8",
+                "https://www.youtube.com/watch?v=x4uT8X4Sn2c",
+                "https://www.youtube.com/watch?v=pK5Osu6dBi0",
+                "https://www.youtube.com/watch?v=KDu7w2c_pcU"
+            ]
+        ]
+    },
+    "The Blue Angel Lounge": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=75wXw2pQCTE",
+                "https://www.youtube.com/watch?v=Qk2PTHX3DRI",
+                "https://www.youtube.com/watch?v=DV3zDwEUEQo",
+                "https://www.youtube.com/watch?v=qMu_vNe0SOQ",
+                "https://www.youtube.com/watch?v=6Z8lt62pp2U"
+            ]
+        ]
+    },
+    "Night Beats": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=EM-e9yTrwFY",
+                "https://www.youtube.com/watch?v=ALlHL8HW4aI",
+                "https://www.youtube.com/watch?v=Gq5e6Ej_hSs",
+                "https://www.youtube.com/watch?v=Ib0jYKQYJ8g",
+                "https://www.youtube.com/watch?v=EJ1yP_WpjU4"
+            ]
+        ]
+    },
+    "Spiritualized": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=-UGbOqadHb0",
+                "https://www.youtube.com/watch?v=n0f2tv-Iuso",
+                "https://www.youtube.com/watch?v=DUWA1b_9Gg4",
+                "https://www.youtube.com/watch?v=K9xPNaq9uec",
+                "https://www.youtube.com/watch?v=4qXNyt8Lvsw"
+            ]
+        ]
+    },
+    "The Dolly Rocker Movement": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=Gnq_jNbRJKU",
+                "https://www.youtube.com/watch?v=Ym7U31AbasI",
+                "https://www.youtube.com/watch?v=SrheJP8hRZQ",
+                "https://www.youtube.com/watch?v=7aeeouPdSi4",
+                "https://www.youtube.com/watch?v=guMMpSDwQ5U"
+            ]
+        ]
+    },
+    "The Underground Youth": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=YQxa7zIym6A",
+                "https://www.youtube.com/watch?v=QWgDai-sltU",
+                "https://www.youtube.com/watch?v=oIOXluMTpsg",
+                "https://www.youtube.com/watch?v=pQCfnMeEv3w",
+                "https://www.youtube.com/watch?v=a2rxHe58rbo"
+            ]
+        ]
+    },
+    "Black Rebel Motorcycle Club": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=9gpbjprHivM",
+                "https://www.youtube.com/watch?v=mYkhNWIdra0",
+                "https://www.youtube.com/watch?v=KdF_4Glx52I",
+                "https://www.youtube.com/watch?v=V4E3SNWxCmk",
+                "https://www.youtube.com/watch?v=S-nSPVZuKwI"
+            ]
+        ]
+    },
+    "Crystal Stilts": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=rWU9TXpDR50",
+                "https://www.youtube.com/watch?v=2RDktzDTIMU",
+                "https://www.youtube.com/watch?v=005tan4zwag",
+                "https://www.youtube.com/watch?v=S4QI4JKN6Vc",
+                "https://www.youtube.com/watch?v=0w7c832Ijxs"
+            ]
+        ]
+    },
+    "Goat": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=nnpeowb5kAk",
+                "https://www.youtube.com/watch?v=BihUCqQp-Rs",
+                "https://www.youtube.com/watch?v=qn9Li6Sh9BU",
+                "https://www.youtube.com/watch?v=7OQoD_p2Ixs",
+                "https://www.youtube.com/watch?v=u3OKLIBnZJY"
+            ]
+        ]
+    },
+    "13th Floor Elevators": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=8BFTr4YY3Eo",
+                "https://www.youtube.com/watch?v=Lt6sT_nX5Ic",
+                "https://www.youtube.com/watch?v=E0Z3HAaguSo",
+                "https://www.youtube.com/watch?v=16oWtEdC4No",
+                "https://www.youtube.com/watch?v=AkLRPDuuP2c"
+            ]
+        ]
+    },
+    "A Place to Bury Strangers": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=8-bcV8LhI4c",
+                "https://www.youtube.com/watch?v=mfMvymlsmvw",
+                "https://www.youtube.com/watch?v=hUdntXPEEgM",
+                "https://www.youtube.com/watch?v=56mTujhSSws",
+                "https://www.youtube.com/watch?v=j6YKGJToe9w"
+            ]
+        ]
+    }
+}
+Holly Golightly
+similar_artist_array ::
+['The Greenhornes', 'Thee Headcoatees', 'The Detroit Cobras', 'Thee Headcoats', 'The Dirtbombs', 'Archie Bronson Outfit', 'Reigning Sound', 'The Duke Spirit', 'The Ettes', 'Shannon and the Clams', 'The Kills', 'Black Lips', 'The Von Bondies', 'Sons and Daughters', 'The Seeds', 'Kristin Hersh', 'The Strange Boys', 'Guitar Wolf', 'April March', 'Throwing Muses']
+
+==============================
+
+last.fm urls and YouTube urls to explore ::
+{
+    "The Greenhornes": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=3N6-xemYDtw",
+                "https://www.youtube.com/watch?v=cS5jhNOSfYM",
+                "https://www.youtube.com/watch?v=eaTWvNH0VzI",
+                "https://www.youtube.com/watch?v=5wTAD-UwKi0",
+                "https://www.youtube.com/watch?v=RpC4vGgboIg"
+            ]
+        ]
+    },
+    "Thee Headcoatees": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=mHwhokE1o3w",
+                "https://www.youtube.com/watch?v=cd3mngWBWus",
+                "https://www.youtube.com/watch?v=YyKCXAN7EyM",
+                "https://www.youtube.com/watch?v=sPDNKZ_Nh1s",
+                "https://www.youtube.com/watch?v=6ypJJ0moLKI"
+            ]
+        ]
+    },
+    "The Detroit Cobras": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=v8ZhLBO9NZY",
+                "https://www.youtube.com/watch?v=1ympgdHO1nM",
+                "https://www.youtube.com/watch?v=oH-QU74WWUw",
+                "https://www.youtube.com/watch?v=CQ2r79n0-II"
+            ]
+        ]
+    },
+    "Thee Headcoats": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=cd3mngWBWus",
+                "https://www.youtube.com/watch?v=QJ21PpFRRfM",
+                "https://www.youtube.com/watch?v=IIGuykS5FPc",
+                "https://www.youtube.com/watch?v=zpT_MN0F_b8",
+                "https://www.youtube.com/watch?v=7wQMn8U4XMw"
+            ]
+        ]
+    },
+    "The Dirtbombs": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=aSZA-l4rgxI",
+                "https://www.youtube.com/watch?v=dRr2np0npvU",
+                "https://www.youtube.com/watch?v=3fhnakyMq2I",
+                "https://www.youtube.com/watch?v=ABpDxzZLvV4",
+                "https://www.youtube.com/watch?v=e7Km9JaDiCc"
+            ]
+        ]
+    },
+    "Archie Bronson Outfit": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=cObvKRbn7uI",
+                "https://www.youtube.com/watch?v=xK8VzuF9zqE",
+                "https://www.youtube.com/watch?v=LNGSwk_7BRA",
+                "https://www.youtube.com/watch?v=Hsj3jfOVYF0",
+                "https://www.youtube.com/watch?v=be-70wKAFgI"
+            ]
+        ]
+    },
+    "Reigning Sound": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=jKSabjxOP8g",
+                "https://www.youtube.com/watch?v=kyZHtjdG1i8",
+                "https://www.youtube.com/watch?v=463XB3JbBjc",
+                "https://www.youtube.com/watch?v=A8Qm2Myie2s",
+                "https://www.youtube.com/watch?v=OQUplLzf4uY"
+            ]
+        ]
+    },
+    "The Duke Spirit": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=aGAA1ws2bc0",
+                "https://www.youtube.com/watch?v=ExrqWM1kLxA",
+                "https://www.youtube.com/watch?v=roZMUyTzk0o",
+                "https://www.youtube.com/watch?v=0svwdY4Bkfc",
+                "https://www.youtube.com/watch?v=m62cSkF3uyk"
+            ]
+        ]
+    },
+    "The Ettes": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=6Q42l6WVC08",
+                "https://www.youtube.com/watch?v=rGVtmA-YR2w",
+                "https://www.youtube.com/watch?v=1KyTriufpig",
+                "https://www.youtube.com/watch?v=4cplYslpMww",
+                "https://www.youtube.com/watch?v=60cXwyY7ajk"
+            ]
+        ]
+    },
+    "Shannon and the Clams": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=-MslxWxoubU",
+                "https://www.youtube.com/watch?v=IYztGih4hSY",
+                "https://www.youtube.com/watch?v=Hm3cf3jsWNw",
+                "https://www.youtube.com/watch?v=kMEppQIIOz8",
+                "https://www.youtube.com/watch?v=kiVOMiXSb5E"
+            ]
+        ]
+    },
+    "The Kills": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=KiLjuRG3hoE",
+                "https://www.youtube.com/watch?v=G6wUPCqwWI8",
+                "https://www.youtube.com/watch?v=1vQY0wR8BZs",
+                "https://www.youtube.com/watch?v=qdeWQIM1FgY",
+                "https://www.youtube.com/watch?v=ruc1jTK2H_s"
+            ]
+        ]
+    },
+    "Black Lips": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=lrNSjItTfes",
+                "https://www.youtube.com/watch?v=v_62BWfZ4ec",
+                "https://www.youtube.com/watch?v=6JyPU_mgqFs",
+                "https://www.youtube.com/watch?v=cogeYS7gkQE",
+                "https://www.youtube.com/watch?v=hKzmsgXz5GM"
+            ]
+        ]
+    },
+    "The Von Bondies": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=RFGo5cqcxP4",
+                "https://www.youtube.com/watch?v=HXLhmc7zW2Q",
+                "https://www.youtube.com/watch?v=U2sqYeV_ghQ",
+                "https://www.youtube.com/watch?v=Efw5UVjJguM",
+                "https://www.youtube.com/watch?v=GKGBvp9BBSs"
+            ]
+        ]
+    },
+    "Sons and Daughters": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=tvGxzg7-GQo",
+                "https://www.youtube.com/watch?v=NDPWCQugzLo",
+                "https://www.youtube.com/watch?v=-2fjSrXilcc",
+                "https://www.youtube.com/watch?v=cKVAD-bpAuo",
+                "https://www.youtube.com/watch?v=xn2WWYfAqUY"
+            ]
+        ]
+    },
+    "The Seeds": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=fSqMaqKs9Eg",
+                "https://www.youtube.com/watch?v=aKZ1NYmgDHc",
+                "https://www.youtube.com/watch?v=i0N_t0mXwag",
+                "https://www.youtube.com/watch?v=RRX96qtM03A",
+                "https://www.youtube.com/watch?v=tRiOR0efgDE"
+            ]
+        ]
+    },
+    "Kristin Hersh": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=ZfW4-nP2G1Q",
+                "https://www.youtube.com/watch?v=iu5SyiEkTAs",
+                "https://www.youtube.com/watch?v=tVqok26_6Bw",
+                "https://www.youtube.com/watch?v=32c1iWcVwjY",
+                "https://www.youtube.com/watch?v=fPidJgXaUbI"
+            ]
+        ]
+    },
+    "The Strange Boys": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=deEwl_DuID0",
+                "https://www.youtube.com/watch?v=4crqVdIXyUk",
+                "https://www.youtube.com/watch?v=-ff_9YDICUQ",
+                "https://www.youtube.com/watch?v=1XpfDjEX7hE",
+                "https://www.youtube.com/watch?v=_Lv0CESzDpc"
+            ]
+        ]
+    },
+    "Guitar Wolf": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=c8yZ-XD5rxc",
+                "https://www.youtube.com/watch?v=s9cVPD97Wcs",
+                "https://www.youtube.com/watch?v=lLTJAZu70zo",
+                "https://www.youtube.com/watch?v=6q4utZFL44I",
+                "https://www.youtube.com/watch?v=T-GntdnKTfQ"
+            ]
+        ]
+    },
+    "April March": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=J1Wkj2fxDsk",
+                "https://www.youtube.com/watch?v=gLjH06gileI",
+                "https://www.youtube.com/watch?v=A_VL8M0EnMU",
+                "https://www.youtube.com/watch?v=eyBeG-ub9Uk",
+                "https://www.youtube.com/watch?v=Ey5jLth3iBs"
+            ]
+        ]
+    },
+    "Throwing Muses": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=RZI-FTcFtn8",
+                "https://www.youtube.com/watch?v=BFzCtKZo24M",
+                "https://www.youtube.com/watch?v=pZ5FpXLOh-Q",
+                "https://www.youtube.com/watch?v=VjeglTKh0Xo",
+                "https://www.youtube.com/watch?v=-9TElw9nDkw"
+            ]
+        ]
+    }
+}
+Sleep
+similar_artist_array ::
+['Electric Wizard', 'Om', 'High on Fire', 'Weedeater', 'Monolord', 'Acid King', 'Bongzilla', 'Bongripper', 'Belzebong', 'Windhand', 'YOB', 'Shrinebuilder', 'Conan', 'Kyuss', 'Elder', 'Dopelord', 'Cough', 'Church of Misery', 'Eyehategod', 'Ufomammut']
+
+==============================
+
+last.fm urls and YouTube urls to explore ::
+{
+    "Electric Wizard": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=F-x6qqNy0mo",
+                "https://www.youtube.com/watch?v=RbmiKvjk-Mg",
+                "https://www.youtube.com/watch?v=qx6Yb81UN4E",
+                "https://www.youtube.com/watch?v=Gz-xmICHCK4",
+                "https://www.youtube.com/watch?v=liF0lxHw0h4"
+            ]
+        ]
+    },
+    "Om": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=3PUKqaoEPao",
+                "https://www.youtube.com/watch?v=kiG6SDTnWHk",
+                "https://www.youtube.com/watch?v=kKqoNrZ00Bg",
+                "https://www.youtube.com/watch?v=3nAUChTuLBk",
+                "https://www.youtube.com/watch?v=g71NHAbYSos"
+            ]
+        ]
+    },
+    "High on Fire": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=89h-X-tZa_w",
+                "https://www.youtube.com/watch?v=fJldHiiKYVU",
+                "https://www.youtube.com/watch?v=7WjaJqhjkOY",
+                "https://www.youtube.com/watch?v=HgtxdN8ngFI",
+                "https://www.youtube.com/watch?v=toJfgrE61mQ"
+            ]
+        ]
+    },
+    "Weedeater": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=I1PEHx-EZg0",
+                "https://www.youtube.com/watch?v=ne2ZNn08uqA",
+                "https://www.youtube.com/watch?v=rtwljeQgW0g",
+                "https://www.youtube.com/watch?v=aIbzJMvg-Ug",
+                "https://www.youtube.com/watch?v=B7L5O49hqSk"
+            ]
+        ]
+    },
+    "Monolord": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=rCc901E02eY",
+                "https://www.youtube.com/watch?v=YX4HwEAF_Eo",
+                "https://www.youtube.com/watch?v=FcRT_bFaz_0",
+                "https://www.youtube.com/watch?v=mTAoZWSKiXI",
+                "https://www.youtube.com/watch?v=VxX_APq-M6A"
+            ]
+        ]
+    },
+    "Acid King": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=74FcC-bIc58",
+                "https://www.youtube.com/watch?v=JVgMOtWkTj4",
+                "https://www.youtube.com/watch?v=5Oy2fG2xzlU",
+                "https://www.youtube.com/watch?v=1asjg3PK55s",
+                "https://www.youtube.com/watch?v=BY20py-mj04"
+            ]
+        ]
+    },
+    "Bongzilla": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=irVFQK-CEAM",
+                "https://www.youtube.com/watch?v=WXSaCJrPNhU",
+                "https://www.youtube.com/watch?v=ameQMWFbBoE",
+                "https://www.youtube.com/watch?v=OyI9EdBgKp8",
+                "https://www.youtube.com/watch?v=USpdr3vq9_U"
+            ]
+        ]
+    },
+    "Bongripper": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=k2KBIs__91s",
+                "https://www.youtube.com/watch?v=ofH5JFp_gvw",
+                "https://www.youtube.com/watch?v=UsbZ35YSAUA",
+                "https://www.youtube.com/watch?v=9xR33ScPrHY",
+                "https://www.youtube.com/watch?v=O06w9XjkuME"
+            ]
+        ]
+    },
+    "Belzebong": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=af9ktxbxjOk",
+                "https://www.youtube.com/watch?v=EPI_iG-iV5g",
+                "https://www.youtube.com/watch?v=QYFHDDlzbb0",
+                "https://www.youtube.com/watch?v=CMGlBBFHq4Y",
+                "https://www.youtube.com/watch?v=l2sAMoIXLFk"
+            ]
+        ]
+    },
+    "Windhand": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=ziZ9w5OiyKo",
+                "https://www.youtube.com/watch?v=XC0MQog6Omg",
+                "https://www.youtube.com/watch?v=2JhVTnU8MnI",
+                "https://www.youtube.com/watch?v=pDicGhdYO2k",
+                "https://www.youtube.com/watch?v=41PSZRxcOSs"
+            ]
+        ]
+    },
+    "YOB": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=wnijxVBQ1A4",
+                "https://www.youtube.com/watch?v=viatji__YX8",
+                "https://www.youtube.com/watch?v=DgW1HtxqNHE",
+                "https://www.youtube.com/watch?v=5AanI4VZe-E",
+                "https://www.youtube.com/watch?v=szbd8HRUaFs"
+            ]
+        ]
+    },
+    "Shrinebuilder": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=0MOvk-dNLRY",
+                "https://www.youtube.com/watch?v=e3NKCQCOdgw",
+                "https://www.youtube.com/watch?v=8xszku3Jhz4",
+                "https://www.youtube.com/watch?v=M7ngM_3L8Kk",
+                "https://www.youtube.com/watch?v=d6e2Twyg3a4"
+            ]
+        ]
+    },
+    "Conan": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=YOJ3r5vstiw",
+                "https://www.youtube.com/watch?v=9524q0SaRE0",
+                "https://www.youtube.com/watch?v=ueeOb6rjMbY",
+                "https://www.youtube.com/watch?v=_9sdhtHyE8M",
+                "https://www.youtube.com/watch?v=3kY8-Vhiq7w"
+            ]
+        ]
+    },
+    "Kyuss": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=R-MSfd2S7lo",
+                "https://www.youtube.com/watch?v=dq8YcRi7DD4",
+                "https://www.youtube.com/watch?v=B7Ske2eKX2g",
+                "https://www.youtube.com/watch?v=O8VmoqBz9Vg",
+                "https://www.youtube.com/watch?v=OO5uaBq0UuA"
+            ]
+        ]
+    },
+    "Elder": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=2WWi1pqXinE",
+                "https://www.youtube.com/watch?v=pOc-RCGj6iE",
+                "https://www.youtube.com/watch?v=0N57oDK3BuU",
+                "https://www.youtube.com/watch?v=Cf8dDDLoCBw",
+                "https://www.youtube.com/watch?v=_dGx6jJkz4I"
+            ]
+        ]
+    },
+    "Dopelord": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=l4Wcl6N3uvk",
+                "https://www.youtube.com/watch?v=0MDBDgjIfBA",
+                "https://www.youtube.com/watch?v=5rV4YXgqnVE",
+                "https://www.youtube.com/watch?v=0txky81Byvo",
+                "https://www.youtube.com/watch?v=ShwLwuAxXqk"
+            ]
+        ]
+    },
+    "Cough": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=l9I_BVdiIQQ",
+                "https://www.youtube.com/watch?v=rVu7nt4cUyI",
+                "https://www.youtube.com/watch?v=Ixi0L9bZzdo",
+                "https://www.youtube.com/watch?v=EJ2iJJinol0",
+                "https://www.youtube.com/watch?v=lzMBnMqyEWw"
+            ]
+        ]
+    },
+    "Church of Misery": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=ARWCQZCa4TU",
+                "https://www.youtube.com/watch?v=52tn2V7sYbA",
+                "https://www.youtube.com/watch?v=1_ykRz5TdpQ",
+                "https://www.youtube.com/watch?v=xcz0St84GVo",
+                "https://www.youtube.com/watch?v=6XjqbZ6jc8M"
+            ]
+        ]
+    },
+    "Eyehategod": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=9TGjqGa9p6U",
+                "https://www.youtube.com/watch?v=6Yn9zZl8_Bw",
+                "https://www.youtube.com/watch?v=fDBK8wX3duU",
+                "https://www.youtube.com/watch?v=NtYYp-EpLG8",
+                "https://www.youtube.com/watch?v=0CJdk-UZjAE"
+            ]
+        ]
+    },
+    "Ufomammut": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=7VFQ-_ERct0",
+                "https://www.youtube.com/watch?v=awg9shuaV_c",
+                "https://www.youtube.com/watch?v=q956Agjlh4c",
+                "https://www.youtube.com/watch?v=kASWOp9b9hs",
+                "https://www.youtube.com/watch?v=K3WFgY05D_s"
+            ]
+        ]
+    }
+}
+Oxford Camerata
+similar_artist_array ::
+['Jeno Jando', 'Capella Istropolitana', 'Slovak Radio Symphony Orchestra', 'Jenő Jandó', 'Russian State Symphony Orchestra', 'Slovak Philharmonic Orchestra', 'The Hilliard Ensemble', 'Takako Nishizaki', 'The Sixteen', 'Hildegard von Bingen', "Choir of King's College, Cambridge", 'Sequentia', 'The Tallis Scholars', 'Voces8', 'Anonymous 4', 'Anonymous', 'Jordi Savall', "The King's Singers", 'Eric Whitacre', 'Andreas Scholl']
+
+==============================
+
+last.fm urls and YouTube urls to explore ::
+{
+    "Jeno Jando": {
+        "YouTube_urls": [
+            []
+        ]
+    },
+    "Capella Istropolitana": {
+        "YouTube_urls": [
+            []
+        ]
+    },
+    "Slovak Radio Symphony Orchestra": {
+        "YouTube_urls": [
+            []
+        ]
+    },
+    "Jen\u0151 Jand\u00f3": {
+        "YouTube_urls": [
+            []
+        ]
+    },
+    "Russian State Symphony Orchestra": {
+        "YouTube_urls": [
+            []
+        ]
+    },
+    "Slovak Philharmonic Orchestra": {
+        "YouTube_urls": [
+            []
+        ]
+    },
+    "The Hilliard Ensemble": {
+        "YouTube_urls": [
+            []
+        ]
+    },
+    "Takako Nishizaki": {
+        "YouTube_urls": [
+            []
+        ]
+    },
+    "The Sixteen": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=24UnJlSKgYk",
+                "https://www.youtube.com/watch?v=cQtYVYJpW5I"
+            ]
+        ]
+    },
+    "Hildegard von Bingen": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=taanHO13WXE",
+                "https://www.youtube.com/watch?v=kC_9WnnWvqw",
+                "https://www.youtube.com/watch?v=2VWD9bsy2yg",
+                "https://www.youtube.com/watch?v=zXFF3mlk7Sw",
+                "https://www.youtube.com/watch?v=1HmAGapRBB4"
+            ]
+        ]
+    },
+    "Choir of King's College, Cambridge": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=88rx0sMFUK8"
+            ]
+        ]
+    },
+    "Sequentia": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=v_qAtrJd6Yo",
+                "https://www.youtube.com/watch?v=x3TJ0w0EKn4"
+            ]
+        ]
+    },
+    "The Tallis Scholars": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=iT-ZAAi4UQQ",
+                "https://www.youtube.com/watch?v=M4cYZJYddK8",
+                "https://www.youtube.com/watch?v=fZ_FeBMsIlw"
+            ]
+        ]
+    },
+    "Voces8": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=Wy_WA-jEYto"
+            ]
+        ]
+    },
+    "Anonymous 4": {
+        "YouTube_urls": [
+            []
+        ]
+    },
+    "Anonymous": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=6R2X-NYhLmk"
+            ]
+        ]
+    },
+    "Jordi Savall": {
+        "YouTube_urls": [
+            []
+        ]
+    },
+    "The King's Singers": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=MbhxZOOXLvU",
+                "https://www.youtube.com/watch?v=foqsP6xSnAk",
+                "https://www.youtube.com/watch?v=twix9KfES9Y"
+            ]
+        ]
+    },
+    "Eric Whitacre": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=0j2JRcC6wBs",
+                "https://www.youtube.com/watch?v=bxjWNJU8rNE",
+                "https://www.youtube.com/watch?v=XmlL0gyfhmo",
+                "https://www.youtube.com/watch?v=-L4TBlyoboo",
+                "https://www.youtube.com/watch?v=C6zPdiLUpa8"
+            ]
+        ]
+    },
+    "Andreas Scholl": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=JiEyfNlWdlM",
+                "https://www.youtube.com/watch?v=nN36qeZ-JzM",
+                "https://www.youtube.com/watch?v=n71JvW4E9Xw",
+                "https://www.youtube.com/watch?v=88ssN9at_Ng",
+                "https://www.youtube.com/watch?v=d_XE-UscQL0"
+            ]
+        ]
+    }
+}
+Dengue Fever
+similar_artist_array ::
+['Ros Sereysothea', 'Sinn Sisamouth', 'Pan Ron', 'Quicksilver Messenger Service', 'The Cambodian Space Project', 'Dungen', 'Goat', 'Wolf People', 'Wooden Shjips', 'The Brian Jonestown Massacre', 'Moon Duo', 'Oneida', 'Dumbo Gets Mad', 'The Dolly Rocker Movement', 'The Soundcarriers', 'Elephant Stone', 'Ozric Tentacles', 'Black Moth Super Rainbow', 'Psychic Ills', 'Silver Apples']
+
+==============================
+
+last.fm urls and YouTube urls to explore ::
+{
+    "Ros Sereysothea": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=y04fy9GywSo",
+                "https://www.youtube.com/watch?v=48HHe7A-zXo",
+                "https://www.youtube.com/watch?v=Kd-9bulJhmw",
+                "https://www.youtube.com/watch?v=6jcFE9Z88W4",
+                "https://www.youtube.com/watch?v=A_0fxMIzFN0"
+            ]
+        ]
+    },
+    "Sinn Sisamouth": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=nNC_mlnoMdo",
+                "https://www.youtube.com/watch?v=v38qNLmvl8o",
+                "https://www.youtube.com/watch?v=wohvwh09Xgk"
+            ]
+        ]
+    },
+    "Pan Ron": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=A5INc3cibXc",
+                "https://www.youtube.com/watch?v=R_Uzr-kxw5g",
+                "https://www.youtube.com/watch?v=nR7GzuebiTs"
+            ]
+        ]
+    },
+    "Quicksilver Messenger Service": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=a1GXqI6cn5k",
+                "https://www.youtube.com/watch?v=RhD-RSDhG_Y",
+                "https://www.youtube.com/watch?v=1L3DWsg9LBk",
+                "https://www.youtube.com/watch?v=qv5mPxfrTZw"
+            ]
+        ]
+    },
+    "The Cambodian Space Project": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=7ySZcKXAoic",
+                "https://www.youtube.com/watch?v=xu4sa9gHS6k",
+                "https://www.youtube.com/watch?v=QgHG1AgfuDA",
+                "https://www.youtube.com/watch?v=MfvTXAU6Hzk",
+                "https://www.youtube.com/watch?v=pvIsNMDcz28"
+            ]
+        ]
+    },
+    "Dungen": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=nRyjPhgxWpc",
+                "https://www.youtube.com/watch?v=LyzPwe9ydB0",
+                "https://www.youtube.com/watch?v=R4TTXYKViIc",
+                "https://www.youtube.com/watch?v=5voLL3KlTDc",
+                "https://www.youtube.com/watch?v=6I-ARqyTRu4"
+            ]
+        ]
+    },
+    "Goat": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=nnpeowb5kAk",
+                "https://www.youtube.com/watch?v=BihUCqQp-Rs",
+                "https://www.youtube.com/watch?v=qn9Li6Sh9BU",
+                "https://www.youtube.com/watch?v=7OQoD_p2Ixs",
+                "https://www.youtube.com/watch?v=u3OKLIBnZJY"
+            ]
+        ]
+    },
+    "Wolf People": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=qfDbWuUw5uY",
+                "https://www.youtube.com/watch?v=SaKe03hP3yo",
+                "https://www.youtube.com/watch?v=lyY3WasbTFE",
+                "https://www.youtube.com/watch?v=q1Kx2ynFvSM",
+                "https://www.youtube.com/watch?v=oCp3ddtO5r0"
+            ]
+        ]
+    },
+    "Wooden Shjips": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=-ng_dBhjt0s",
+                "https://www.youtube.com/watch?v=6PfYo-YYVPY",
+                "https://www.youtube.com/watch?v=hSSTHOcsT3s",
+                "https://www.youtube.com/watch?v=o5qddnGj3f0",
+                "https://www.youtube.com/watch?v=9FYEfSAh7rc"
+            ]
+        ]
+    },
+    "The Brian Jonestown Massacre": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=7MoVTz-gqBk",
+                "https://www.youtube.com/watch?v=uhSdFzxD8Ps",
+                "https://www.youtube.com/watch?v=45HPaTF0u7U",
+                "https://www.youtube.com/watch?v=dPSzOInHThM",
+                "https://www.youtube.com/watch?v=7J5l-PGg9fA"
+            ]
+        ]
+    },
+    "Moon Duo": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=zgqTh6uoenc",
+                "https://www.youtube.com/watch?v=kLUlwQ4vafw",
+                "https://www.youtube.com/watch?v=CEBMJR3-fu4",
+                "https://www.youtube.com/watch?v=8pDWw7ZVY1s",
+                "https://www.youtube.com/watch?v=gFhKRt5g7LU"
+            ]
+        ]
+    },
+    "Oneida": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=zhwNfva1WJA",
+                "https://www.youtube.com/watch?v=YA1tgOW6lfk",
+                "https://www.youtube.com/watch?v=NE5F2XYWmUo",
+                "https://www.youtube.com/watch?v=Nh5zjR9yKfk",
+                "https://www.youtube.com/watch?v=jpfA5v4Vcow"
+            ]
+        ]
+    },
+    "Dumbo Gets Mad": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=23GiDfWuCfM",
+                "https://www.youtube.com/watch?v=tnIy8d-C0tM",
+                "https://www.youtube.com/watch?v=x9_Gew6UJ0s",
+                "https://www.youtube.com/watch?v=n8N18diRMVE",
+                "https://www.youtube.com/watch?v=h8PvOMj752Y"
+            ]
+        ]
+    },
+    "The Dolly Rocker Movement": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=Gnq_jNbRJKU",
+                "https://www.youtube.com/watch?v=Ym7U31AbasI",
+                "https://www.youtube.com/watch?v=SrheJP8hRZQ",
+                "https://www.youtube.com/watch?v=7aeeouPdSi4",
+                "https://www.youtube.com/watch?v=guMMpSDwQ5U"
+            ]
+        ]
+    },
+    "The Soundcarriers": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=2PIaCBvJXsg",
+                "https://www.youtube.com/watch?v=2ReOm6fGLgI",
+                "https://www.youtube.com/watch?v=Ugn6R5KiP7c",
+                "https://www.youtube.com/watch?v=IT13RIUi8XU",
+                "https://www.youtube.com/watch?v=6boKXegy8wU"
+            ]
+        ]
+    },
+    "Elephant Stone": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=a5ypsjRee9o",
+                "https://www.youtube.com/watch?v=0kcrgI1fEQE",
+                "https://www.youtube.com/watch?v=rHRzbfQ1O_E",
+                "https://www.youtube.com/watch?v=NY0io3ge_MY",
+                "https://www.youtube.com/watch?v=bWhRCtZD4Vc"
+            ]
+        ]
+    },
+    "Ozric Tentacles": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=UVZxpoq166Q",
+                "https://www.youtube.com/watch?v=86zEObmr4MU",
+                "https://www.youtube.com/watch?v=yb0Sp1hSTN8",
+                "https://www.youtube.com/watch?v=7WiHs_1zH10",
+                "https://www.youtube.com/watch?v=kRSfUMTjp-E"
+            ]
+        ]
+    },
+    "Black Moth Super Rainbow": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=FtSsSY13zUA",
+                "https://www.youtube.com/watch?v=MC6aAs4kkbY",
+                "https://www.youtube.com/watch?v=xwJamPPTJl4",
+                "https://www.youtube.com/watch?v=_r_L3VG69Jg",
+                "https://www.youtube.com/watch?v=pJKSqgO3vWI"
+            ]
+        ]
+    },
+    "Psychic Ills": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=ugue9uLoHbU",
+                "https://www.youtube.com/watch?v=Nh60iGucgzo",
+                "https://www.youtube.com/watch?v=8RRm1yZfjFM",
+                "https://www.youtube.com/watch?v=1jdqs7z7EHw",
+                "https://www.youtube.com/watch?v=OeZ-_iE1vtY"
+            ]
+        ]
+    },
+    "Silver Apples": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=53zYRx8bfAg",
+                "https://www.youtube.com/watch?v=aeU8peWXSZM",
+                "https://www.youtube.com/watch?v=rBVCe2WX-ss",
+                "https://www.youtube.com/watch?v=mHpwOlnwglY",
+                "https://www.youtube.com/watch?v=DPW9WGaWo7s"
+            ]
+        ]
+    }
+}
+The Allman Brothers Band
+similar_artist_array ::
+['Gregg Allman', 'Grateful Dead', 'The Marshall Tucker Band', 'Little Feat', 'Derek and the Dominos', "Gov't Mule", 'Widespread Panic', 'Lynyrd Skynyrd', 'Tedeschi Trucks Band', 'Traffic', 'Blind Faith', 'The Band', 'Hot Tuna', 'The Doobie Brothers', 'Eric Clapton', 'The Derek Trucks Band', 'Warren Haynes', 'Joe Walsh', 'The Outlaws', 'Steve Miller Band']
+
+==============================
+
+last.fm urls and YouTube urls to explore ::
+{
+    "Gregg Allman": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=zip-ot4GSCE",
+                "https://www.youtube.com/watch?v=ZdMPdpGVF2s",
+                "https://www.youtube.com/watch?v=ulfm79CI4cE",
+                "https://www.youtube.com/watch?v=aFK-EgPdZ4M",
+                "https://www.youtube.com/watch?v=d67lhEVBsxU"
+            ]
+        ]
+    },
+    "Grateful Dead": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=tXgReZFB1SY",
+                "https://www.youtube.com/watch?v=_x2m6i4KFqg",
+                "https://www.youtube.com/watch?v=sFBQSx_xc2o",
+                "https://www.youtube.com/watch?v=RPQAbBI7E38",
+                "https://www.youtube.com/watch?v=ei5EmN2HmVI"
+            ]
+        ]
+    },
+    "The Marshall Tucker Band": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=GZZ7cogovrY",
+                "https://www.youtube.com/watch?v=Eh_UdmNGGFA",
+                "https://www.youtube.com/watch?v=0uMWbZj-gWg",
+                "https://www.youtube.com/watch?v=25ALsr5phZo",
+                "https://www.youtube.com/watch?v=_EG8mfl0ywo"
+            ]
+        ]
+    },
+    "Little Feat": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=zcrEWRLk3CE",
+                "https://www.youtube.com/watch?v=t2XXlXXMsXs",
+                "https://www.youtube.com/watch?v=6dXxZNsg8ew",
+                "https://www.youtube.com/watch?v=UaQ3VGeQ8Uw",
+                "https://www.youtube.com/watch?v=b1pQ7UhgH3A"
+            ]
+        ]
+    },
+    "Derek and the Dominos": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=TngViNw2pOo",
+                "https://www.youtube.com/watch?v=BKAYGVIkbok",
+                "https://www.youtube.com/watch?v=uSquiIVLhrQ",
+                "https://www.youtube.com/watch?v=47ZJmPh0QDg",
+                "https://www.youtube.com/watch?v=BfPPKPMx2Cs"
+            ]
+        ]
+    },
+    "Gov't Mule": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=ijsritrkiAA",
+                "https://www.youtube.com/watch?v=j08p1xV8Ks4",
+                "https://www.youtube.com/watch?v=7g7pbEJLL9w",
+                "https://www.youtube.com/watch?v=68bgQpP2he4",
+                "https://www.youtube.com/watch?v=DN3yqC-G8VE"
+            ]
+        ]
+    },
+    "Widespread Panic": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=nedhrbg6sK4",
+                "https://www.youtube.com/watch?v=PzjN8edgRF0",
+                "https://www.youtube.com/watch?v=aRAnqETrXCs",
+                "https://www.youtube.com/watch?v=IpLisWKjZOg",
+                "https://www.youtube.com/watch?v=I251wLQXIaM"
+            ]
+        ]
+    },
+    "Lynyrd Skynyrd": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=ye5BuYf8q4o",
+                "https://www.youtube.com/watch?v=D0W1v0kOELA",
+                "https://www.youtube.com/watch?v=l-5aPNxv-pU",
+                "https://www.youtube.com/watch?v=hhnBgoAL0xw",
+                "https://www.youtube.com/watch?v=iFNbTdLfBwQ"
+            ]
+        ]
+    },
+    "Tedeschi Trucks Band": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=Jm0Ja7NopO8",
+                "https://www.youtube.com/watch?v=wOYggnxuhe8",
+                "https://www.youtube.com/watch?v=dMWNGPJZhu8",
+                "https://www.youtube.com/watch?v=4RxIttNfApw",
+                "https://www.youtube.com/watch?v=Z5dAJ2j7lcI"
+            ]
+        ]
+    },
+    "Traffic": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=vxVlN-LzIks",
+                "https://www.youtube.com/watch?v=mldJrU1dWx0",
+                "https://www.youtube.com/watch?v=4v8YQ6sU6I4",
+                "https://www.youtube.com/watch?v=XQgQYwqn_gQ",
+                "https://www.youtube.com/watch?v=c_CDAZW4mWE"
+            ]
+        ]
+    },
+    "Blind Faith": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=nTJYkjrg594",
+                "https://www.youtube.com/watch?v=HIcESt9eYRk",
+                "https://www.youtube.com/watch?v=s-UZ2uE18ws",
+                "https://www.youtube.com/watch?v=x_iLZXjhI-g",
+                "https://www.youtube.com/watch?v=cOZ5VcQIiFc"
+            ]
+        ]
+    },
+    "The Band": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=FFqb1I-hiHE",
+                "https://www.youtube.com/watch?v=X1JGWFcvAwU",
+                "https://www.youtube.com/watch?v=EisXJSsULGM",
+                "https://www.youtube.com/watch?v=MjtPBjEz-BA",
+                "https://www.youtube.com/watch?v=-Jy6P9TltXQ"
+            ]
+        ]
+    },
+    "Hot Tuna": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=AOOQ1woZWQY",
+                "https://www.youtube.com/watch?v=2F8JNB3yhrE",
+                "https://www.youtube.com/watch?v=1DeQ9R7RQYE",
+                "https://www.youtube.com/watch?v=NjCP0j0YAHU",
+                "https://www.youtube.com/watch?v=kMFaFgC0PAg"
+            ]
+        ]
+    },
+    "The Doobie Brothers": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=S3ta4T9tIUM",
+                "https://www.youtube.com/watch?v=CVsLEI-hCXw",
+                "https://www.youtube.com/watch?v=dJe1iUuAW4M",
+                "https://www.youtube.com/watch?v=RX7iHsAIw9o",
+                "https://www.youtube.com/watch?v=m4oZCtfmh44"
+            ]
+        ]
+    },
+    "Eric Clapton": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=JxPj3GAYYZ0",
+                "https://www.youtube.com/watch?v=qYS732zyYfU",
+                "https://www.youtube.com/watch?v=fX5USg8_1gA",
+                "https://www.youtube.com/watch?v=vUSzL2leaFM",
+                "https://www.youtube.com/watch?v=tRgcwT9X2J8"
+            ]
+        ]
+    },
+    "The Derek Trucks Band": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=GrB-tTKxY6w",
+                "https://www.youtube.com/watch?v=P0hN2828mnQ",
+                "https://www.youtube.com/watch?v=Bj3vP_95gjc",
+                "https://www.youtube.com/watch?v=sMW3aTe03no",
+                "https://www.youtube.com/watch?v=lEr_JPfFCXQ"
+            ]
+        ]
+    },
+    "Warren Haynes": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=81lIga4eLfI",
+                "https://www.youtube.com/watch?v=6dI95G-WAdU",
+                "https://www.youtube.com/watch?v=aRapyEORGfA",
+                "https://www.youtube.com/watch?v=ajzTKiT2LJc",
+                "https://www.youtube.com/watch?v=7R3pSryQf88"
+            ]
+        ]
+    },
+    "Joe Walsh": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=4bLI0QBNhpk",
+                "https://www.youtube.com/watch?v=BXWvKDSwvls",
+                "https://www.youtube.com/watch?v=-iG_0MCXKh4",
+                "https://www.youtube.com/watch?v=_tiOMu_Bf8Q",
+                "https://www.youtube.com/watch?v=HxM6F0gX3n0"
+            ]
+        ]
+    },
+    "The Outlaws": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=R82OM5tzcrk",
+                "https://www.youtube.com/watch?v=4nE5e_e3Y4A",
+                "https://www.youtube.com/watch?v=DGrZwU6wde0",
+                "https://www.youtube.com/watch?v=Hew_1LfDfvc",
+                "https://www.youtube.com/watch?v=DhiyKZsAW44"
+            ]
+        ]
+    },
+    "Steve Miller Band": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=dV3AziKTBUo",
+                "https://www.youtube.com/watch?v=WuXwSyahgW4",
+                "https://www.youtube.com/watch?v=tY8B0uQpwZs",
+                "https://www.youtube.com/watch?v=6MneA9pgLVw",
+                "https://www.youtube.com/watch?v=JHa1hiFYbFQ"
+            ]
+        ]
+    }
+}
+Jackie Mittoo
+similar_artist_array ::
+['Sound Dimension', 'The Heptones', 'Delroy Wilson', 'Tommy McCook', 'Junior Delgado', 'Alton Ellis', 'Augustus Pablo', 'Horace Andy', 'Don Drummond', 'The Gaylads', 'John Holt', 'Johnny Osbourne', 'Barry Brown', 'Hortense Ellis', 'Hopeton Lewis', 'Cornell Campbell', 'Lone Ranger', 'Ken Boothe', 'The Skatalites', 'Tommy McCook & The Supersonics']
+
+==============================
+
+last.fm urls and YouTube urls to explore ::
+{
+    "Sound Dimension": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=04fXIXUbFkk",
+                "https://www.youtube.com/watch?v=lWG9412gwQ8",
+                "https://www.youtube.com/watch?v=t8W8dR4JBaU",
+                "https://www.youtube.com/watch?v=6s_9EDqUQY4",
+                "https://www.youtube.com/watch?v=GEbQlZKN6ko"
+            ]
+        ]
+    },
+    "The Heptones": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=9hGVCQoPH80",
+                "https://www.youtube.com/watch?v=8z9h2nO5SIo",
+                "https://www.youtube.com/watch?v=i6jVhvTGUd8",
+                "https://www.youtube.com/watch?v=T3MOIICdejs",
+                "https://www.youtube.com/watch?v=axFq5tRiiNg"
+            ]
+        ]
+    },
+    "Delroy Wilson": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=fCdrHbHViMI",
+                "https://www.youtube.com/watch?v=3kIXseMgeO0",
+                "https://www.youtube.com/watch?v=gCoAIwFV67E",
+                "https://www.youtube.com/watch?v=m2e_kWndm_g",
+                "https://www.youtube.com/watch?v=1Awv5U_ZlwM"
+            ]
+        ]
+    },
+    "Tommy McCook": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=8MCiBAKDTF8",
+                "https://www.youtube.com/watch?v=d2ZzqMz8XQM",
+                "https://www.youtube.com/watch?v=m8fBx2u5yFA",
+                "https://www.youtube.com/watch?v=oYMewMDNOaM",
+                "https://www.youtube.com/watch?v=CMaJIGSyiec"
+            ]
+        ]
+    },
+    "Junior Delgado": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=cjirH-Tfa3g",
+                "https://www.youtube.com/watch?v=XD8F-ol1m_E",
+                "https://www.youtube.com/watch?v=DbmEMOvRSsY",
+                "https://www.youtube.com/watch?v=aYAfn39-HAA",
+                "https://www.youtube.com/watch?v=Eip55Ji19XA"
+            ]
+        ]
+    },
+    "Alton Ellis": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=9mPtoMgQ0x8",
+                "https://www.youtube.com/watch?v=vRcEBnEuvyM",
+                "https://www.youtube.com/watch?v=fbx3hDiynKg",
+                "https://www.youtube.com/watch?v=ulawWQmgac8",
+                "https://www.youtube.com/watch?v=tc7crRl2JqA"
+            ]
+        ]
+    },
+    "Augustus Pablo": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=ztq7-kkygZk",
+                "https://www.youtube.com/watch?v=wrLKHCiCjs8",
+                "https://www.youtube.com/watch?v=3Q1XfJPIRe0",
+                "https://www.youtube.com/watch?v=Hgv9m3w4o6o"
+            ]
+        ]
+    },
+    "Horace Andy": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=2hSuQnMpvs4",
+                "https://www.youtube.com/watch?v=b-2n7VLBHi0",
+                "https://www.youtube.com/watch?v=jThHo11NblI",
+                "https://www.youtube.com/watch?v=iX3ElbhtcW0",
+                "https://www.youtube.com/watch?v=lKtNiA0qxL8"
+            ]
+        ]
+    },
+    "Don Drummond": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=2fJgvoEaOLQ",
+                "https://www.youtube.com/watch?v=-_82WxyOVME",
+                "https://www.youtube.com/watch?v=6VjhvpxHIoc",
+                "https://www.youtube.com/watch?v=lmTG3SLg7dk",
+                "https://www.youtube.com/watch?v=GrMfqZ_JAJc"
+            ]
+        ]
+    },
+    "The Gaylads": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=7muJjL6m4BA",
+                "https://www.youtube.com/watch?v=irOrFUVBNgs",
+                "https://www.youtube.com/watch?v=RlzLiUbEQuc",
+                "https://www.youtube.com/watch?v=DKrVPX9oJ14",
+                "https://www.youtube.com/watch?v=4vWBWeh9oa4"
+            ]
+        ]
+    },
+    "John Holt": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=smWVKR_LYjs",
+                "https://www.youtube.com/watch?v=pwf3Cza48hw",
+                "https://www.youtube.com/watch?v=SgTJAyGSPmM",
+                "https://www.youtube.com/watch?v=dMVmPqmrCzY",
+                "https://www.youtube.com/watch?v=uDT3tXnGFYk"
+            ]
+        ]
+    },
+    "Johnny Osbourne": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=-y3Abv2ovkU",
+                "https://www.youtube.com/watch?v=x8dvPk8mNN0",
+                "https://www.youtube.com/watch?v=FAxdYIsXu-s",
+                "https://www.youtube.com/watch?v=2cCAmI33Ptw",
+                "https://www.youtube.com/watch?v=8wRAcXQSm7Y"
+            ]
+        ]
+    },
+    "Barry Brown": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=0pjarDnGSwM",
+                "https://www.youtube.com/watch?v=JXxmukf-oHQ",
+                "https://www.youtube.com/watch?v=6nVpXA6fGss",
+                "https://www.youtube.com/watch?v=4QwpGPdBHJo",
+                "https://www.youtube.com/watch?v=K2grbP1g9Rs"
+            ]
+        ]
+    },
+    "Hortense Ellis": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=b1WdPA4Wglk",
+                "https://www.youtube.com/watch?v=xZtadt-LChc",
+                "https://www.youtube.com/watch?v=AujOcnUK5YY",
+                "https://www.youtube.com/watch?v=6GYYMGeKmBo",
+                "https://www.youtube.com/watch?v=BsHaHmhi8pU"
+            ]
+        ]
+    },
+    "Hopeton Lewis": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=7pnuW8V8obc",
+                "https://www.youtube.com/watch?v=fJnsHCJNH1M",
+                "https://www.youtube.com/watch?v=26aUmDvDROE",
+                "https://www.youtube.com/watch?v=BPXgZSWspTw"
+            ]
+        ]
+    },
+    "Cornell Campbell": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=n0_G4fFgMEA",
+                "https://www.youtube.com/watch?v=eIjmgH9ydU0",
+                "https://www.youtube.com/watch?v=iikg57Jx9wk",
+                "https://www.youtube.com/watch?v=VckPkQ83C24",
+                "https://www.youtube.com/watch?v=aA0rdWXvSFM"
+            ]
+        ]
+    },
+    "Lone Ranger": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=pKmelL9RI9E",
+                "https://www.youtube.com/watch?v=2MWINY2E81E",
+                "https://www.youtube.com/watch?v=pkQuwT4fHfw",
+                "https://www.youtube.com/watch?v=DMXIZszCWPQ",
+                "https://www.youtube.com/watch?v=cCEuFFFm36Q"
+            ]
+        ]
+    },
+    "Ken Boothe": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=2Mj0Zxo4LdE",
+                "https://www.youtube.com/watch?v=j56OdQwlg9Y",
+                "https://www.youtube.com/watch?v=YwrS6K8r8-U",
+                "https://www.youtube.com/watch?v=-ENNVsX-lPY",
+                "https://www.youtube.com/watch?v=MJP4WSa4NcM"
+            ]
+        ]
+    },
+    "The Skatalites": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=9bVdX-YwnhE",
+                "https://www.youtube.com/watch?v=Dch54QmIsbk",
+                "https://www.youtube.com/watch?v=FPLdx3OS_DM",
+                "https://www.youtube.com/watch?v=DHUA9p7aDIU",
+                "https://www.youtube.com/watch?v=_L9HVDSGDKc"
+            ]
+        ]
+    },
+    "Tommy McCook & The Supersonics": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=LzqaJzE5uOs",
+                "https://www.youtube.com/watch?v=SXQ0OKFU-Y0",
+                "https://www.youtube.com/watch?v=IPwZ6qav4sw"
+            ]
+        ]
+    }
+}
+Fretwork
+similar_artist_array ::
+['Jordi Savall', 'Stile Antico', 'The Tallis Scholars', 'Hopkinson Smith', 'Il Giardino Armonico', 'Andreas Staier', 'Trevor Pinnock', 'Akademie für Alte Musik Berlin', 'The Hilliard Ensemble', 'John Eliot Gardiner', 'Anonymous 4', 'András Schiff', 'Henry Purcell', 'Christina Pluhar', "Paul O'Dette", 'Jakob Lindberg', 'Christophe Rousset', 'Glenn Gould', 'The Sixteen', 'Ton Koopman']
+
+==============================
+
+last.fm urls and YouTube urls to explore ::
+{
+    "Jordi Savall": {
+        "YouTube_urls": [
+            []
+        ]
+    },
+    "Stile Antico": {
+        "YouTube_urls": [
+            []
+        ]
+    },
+    "The Tallis Scholars": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=iT-ZAAi4UQQ",
+                "https://www.youtube.com/watch?v=M4cYZJYddK8",
+                "https://www.youtube.com/watch?v=fZ_FeBMsIlw"
+            ]
+        ]
+    },
+    "Hopkinson Smith": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=O3lSXhgXhMw"
+            ]
+        ]
+    },
+    "Il Giardino Armonico": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=76sn16CrqAc",
+                "https://www.youtube.com/watch?v=g-PDfgDurws",
+                "https://www.youtube.com/watch?v=XtCvs3n5PqQ",
+                "https://www.youtube.com/watch?v=ORVGCpiGNYQ"
+            ]
+        ]
+    },
+    "Andreas Staier": {
+        "YouTube_urls": [
+            []
+        ]
+    },
+    "Trevor Pinnock": {
+        "YouTube_urls": [
+            []
+        ]
+    },
+    "Akademie f\u00fcr Alte Musik Berlin": {
+        "YouTube_urls": [
+            []
+        ]
+    },
+    "The Hilliard Ensemble": {
+        "YouTube_urls": [
+            []
+        ]
+    },
+    "John Eliot Gardiner": {
+        "YouTube_urls": [
+            []
+        ]
+    },
+    "Anonymous 4": {
+        "YouTube_urls": [
+            []
+        ]
+    },
+    "Andr\u00e1s Schiff": {
+        "YouTube_urls": [
+            []
+        ]
+    },
+    "Henry Purcell": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=GdfG8ax253Q",
+                "https://www.youtube.com/watch?v=1CFsLXo3nK8",
+                "https://www.youtube.com/watch?v=qu1S8IQ4J00",
+                "https://www.youtube.com/watch?v=BmxvhBZkgFQ",
+                "https://www.youtube.com/watch?v=D3FmsNzTX3A"
+            ]
+        ]
+    },
+    "Christina Pluhar": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=jUxP4v8vd0g",
+                "https://www.youtube.com/watch?v=Qn-wUuY-yXs",
+                "https://www.youtube.com/watch?v=eiusfLolg-E"
+            ]
+        ]
+    },
+    "Paul O'Dette": {
+        "YouTube_urls": [
+            []
+        ]
+    },
+    "Jakob Lindberg": {
+        "YouTube_urls": [
+            []
+        ]
+    },
+    "Christophe Rousset": {
+        "YouTube_urls": [
+            []
+        ]
+    },
+    "Glenn Gould": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=whYDz4AsIDo",
+                "https://www.youtube.com/watch?v=4lR2rlq-ALw",
+                "https://www.youtube.com/watch?v=yY0BRQbpIe0"
+            ]
+        ]
+    },
+    "The Sixteen": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=24UnJlSKgYk",
+                "https://www.youtube.com/watch?v=cQtYVYJpW5I"
+            ]
+        ]
+    },
+    "Ton Koopman": {
+        "YouTube_urls": [
+            [
+                "https://www.youtube.com/watch?v=P21qlB0K-Bs"
+            ]
+        ]
+    }
+}
