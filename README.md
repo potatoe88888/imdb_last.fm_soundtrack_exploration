@@ -18,11 +18,11 @@ requests, json, bs4, imdb
 2. Navigate to your directory which will hold this repository through terminal of choice.
 3. Depending on your python PATH variable set up, you could be using 'python' or 'python3', figure this out before proceeding the user could also house another variable other than these for python running more info? check out [Source 1](http://net-informations.com/python/intro/path.html) and [Source 2](https://geek-university.com/python/add-python-to-the-windows-path/). Run (prototype.py).
 ```  
-$python prototype.py
+$python imdb_soundtrack_last.fm_exploration.py
 ```  
 --or --
 ```  
-$python3 prototype.py
+$python3 imdb_soundtrack_last.fm_exploration.py
 ```
 4. You will be prompted to enter a movie name.
 ```
