@@ -1,7 +1,3 @@
-### SOURCES
-# https://imdbpy.readthedocs.io/en/latest/usage/data-interface.html
-# https://buildmedia.readthedocs.org/media/pdf/imdbpy/latest/imdbpy.pdf
-
 import prototype
 import requests
 from imdb import IMDb
